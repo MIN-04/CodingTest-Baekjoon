@@ -9,5 +9,10 @@
 + [Bronze02 - 10870. 피보나치 수 5](https://github.com/MIN-04/CodingTest-Baekjoon/blob/master/Tag/DP/No10870.java "Bronze02 - 10870. 피보나치 수 5")
 + [Bronze01 - 9625. BABBA](https://github.com/MIN-04/CodingTest-Baekjoon/blob/master/Tag/DP/No9625.java "Bronze01 - 9625. BABBA")
 + [Silver05 - 2748. 피보나치 수 2](https://github.com/MIN-04/CodingTest-Baekjoon/blob/master/Tag/DP/No2748.java "Silver05 - 2748. 피보나치 수 2")
-
+  
+#### 탐욕법 (Greedy)
+  
++ [Bronze02 - 5585. 거스름돈](https://github.com/MIN-04/CodingTest-Baekjoon/blob/master/Tag/Greedy/No5585.java "Bronze02 - 5585. 거스름돈")
++ Bronze01 - 2839. 설탕 배달](https://github.com/MIN-04/CodingTest-Baekjoon/blob/master/Tag/Greedy/No2839.java "Bronze01 - 2839. 설탕 배달")
+  
 > 진행 중..
