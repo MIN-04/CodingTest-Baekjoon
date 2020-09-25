@@ -13,6 +13,6 @@
 #### 탐욕법 (Greedy)
   
 + [Bronze02 - 5585. 거스름돈](https://github.com/MIN-04/CodingTest-Baekjoon/blob/master/Tag/Greedy/No5585.java "Bronze02 - 5585. 거스름돈")
-+ Bronze01 - 2839. 설탕 배달](https://github.com/MIN-04/CodingTest-Baekjoon/blob/master/Tag/Greedy/No2839.java "Bronze01 - 2839. 설탕 배달")
++ [Bronze01 - 2839. 설탕 배달](https://github.com/MIN-04/CodingTest-Baekjoon/blob/master/Tag/Greedy/No2839.java "Bronze01 - 2839. 설탕 배달")
   
 > 진행 중..
