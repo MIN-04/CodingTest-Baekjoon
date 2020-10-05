@@ -19,4 +19,7 @@
 + [Silver05 - 1439. 뒤집기](https://github.com/MIN-04/CodingTest-Baekjoon/blob/master/Tag/Greedy/No1439.java "Silver05 - 1439. 뒤집기")
 + [Silver05 - 4796. 캠핑](https://github.com/MIN-04/CodingTest-Baekjoon/blob/master/Tag/Greedy/No4796.java "Silver05 - 4796. 캠핑")
   
+#### 수학 (Math)
++ [Bronze02 - 1075. 나누기](https://github.com/MIN-04/CodingTest-Baekjoon/blob/master/Tag/Math/No1075.java "Bronze02 - 1075. 나누기")  
+  
 > 진행 중..
