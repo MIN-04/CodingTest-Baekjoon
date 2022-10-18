@@ -1,9 +1,24 @@
 # Baekjoon 문제 풀이
   
 + 코딩테스트를 준비하기 위해 Baekjoon 문제 풀이를 시작한다.
-+ Java 언어로 풀고, [블로그](https://kimkkoo.tistory.com/ "내 블로그")와 Github에 정리한다.  
++ Java, Python 언어로 풀고, Github에 정리한다.  
     
 ## 분류 (Tag)
+
+### 자료구조
+
+#### 배열
+
++ [Bronze02 - 2920. 음계](https://github.com/MIN-04/CodingTest-Baekjoon/blob/master/Tag/Array/no2920.py "Bronze02 - 2920. 음계")
++ [Bronze02 - 2798. 블랙잭](https://github.com/MIN-04/CodingTest-Baekjoon/blob/master/Tag/Array/no2798.py "Bronze02 - 2798. 블랙잭")
+
+#### 스택/ 큐
+
++ [Silver02 - 1874. 스택 수열](https://github.com/MIN-04/CodingTest-Baekjoon/blob/master/Tag/StackQueue/no1874.py "Silver02 - 1874. 스택 수열")
++ [Silver05 - 1966. 프린터 큐](https://github.com/MIN-04/CodingTest-Baekjoon/blob/master/Tag/StackQueue/no1966.py "Silver05 - 1966. 프린터 큐")
++ [Silver02 - 5739. 키로거](https://github.com/MIN-04/CodingTest-Baekjoon/blob/master/Tag/StackQueue/no5397.py "Silver02 - 5739. 키로거")
+
+
 #### 동적계획법 (Dynamic Programming)
   
 + [Bronze02 - 10870. 피보나치 수 5](https://github.com/MIN-04/CodingTest-Baekjoon/blob/master/Tag/DP/No10870.java "Bronze02 - 10870. 피보나치 수 5")
