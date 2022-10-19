@@ -11,13 +11,19 @@
 
 + [Bronze02 - 2920. 음계](https://github.com/MIN-04/CodingTest-Baekjoon/blob/master/Tag/Array/no2920.py "Bronze02 - 2920. 음계")
 + [Bronze02 - 2798. 블랙잭](https://github.com/MIN-04/CodingTest-Baekjoon/blob/master/Tag/Array/no2798.py "Bronze02 - 2798. 블랙잭")
++ [Silver04 - 1920. 수 찾기](https://github.com/MIN-04/CodingTest-Baekjoon/blob/master/Tag/Array/no1920.py "Silver04 - 1920. 수 찾기")
 
 #### 스택/ 큐
 
 + [Silver02 - 1874. 스택 수열](https://github.com/MIN-04/CodingTest-Baekjoon/blob/master/Tag/StackQueue/no1874.py "Silver02 - 1874. 스택 수열")
 + [Silver05 - 1966. 프린터 큐](https://github.com/MIN-04/CodingTest-Baekjoon/blob/master/Tag/StackQueue/no1966.py "Silver05 - 1966. 프린터 큐")
 + [Silver02 - 5739. 키로거](https://github.com/MIN-04/CodingTest-Baekjoon/blob/master/Tag/StackQueue/no5397.py "Silver02 - 5739. 키로거")
++ [Silver04 - 10828. 스택](https://github.com/MIN-04/CodingTest-Baekjoon/blob/master/Tag/StackQueue/no10828.py "Silver04 - 10828. 스택")
++ [Silver04 - 10773. 제로](https://github.com/MIN-04/CodingTest-Baekjoon/blob/master/Tag/StackQueue/no10773.py "Silver04 - 10773. 제로")
 
+#### 해시
+
++ [Silver00 - 10930. SHA-256](https://github.com/MIN-04/CodingTest-Baekjoon/blob/master/Tag/Hash/no10930.py "Silver00 - 10930. SHA-256")
 
 #### 동적계획법 (Dynamic Programming)
   
