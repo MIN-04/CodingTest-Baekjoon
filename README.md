@@ -21,9 +21,15 @@
 + [Silver04 - 10828. 스택](https://github.com/MIN-04/CodingTest-Baekjoon/blob/master/Tag/StackQueue/no10828.py "Silver04 - 10828. 스택")
 + [Silver04 - 10773. 제로](https://github.com/MIN-04/CodingTest-Baekjoon/blob/master/Tag/StackQueue/no10773.py "Silver04 - 10773. 제로")
 
+#### 덱
+
++ [Silver03 - 1021. 회전하는 큐](https://github.com/MIN-04/CodingTest-Baekjoon/blob/master/Tag/Deque/no1021.py "Silver03 - 1021. 회전하는 큐")
++ [Silver05 - 11866. 요세푸스 문제 0](https://github.com/MIN-04/CodingTest-Baekjoon/blob/master/Tag/Deque/no11866.py "Silver05 - 11866. 요세푸스 문제 0")
+
 #### 해시
 
 + [Silver00 - 10930. SHA-256](https://github.com/MIN-04/CodingTest-Baekjoon/blob/master/Tag/Hash/no10930.py "Silver00 - 10930. SHA-256")
+
 
 #### 동적계획법 (Dynamic Programming)
   
