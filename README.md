@@ -29,6 +29,7 @@
 #### 해시
 
 + [Silver00 - 10930. SHA-256](https://github.com/MIN-04/CodingTest-Baekjoon/blob/master/Tag/Hash/no10930.py "Silver00 - 10930. SHA-256")
++ [Silver03 - 16165. 걸그룹 마스터 준석이](https://github.com/MIN-04/CodingTest-Baekjoon/blob/master/Tag/Hash/no16165.py "Silver03 - 16165. 걸그룹 마스터 준석이")
 
 ### 알고리즘
 
@@ -53,6 +54,7 @@
 + [Bronze01 - 15904. UCPC는 무엇의 약자일까?(다른 방법)](https://github.com/MIN-04/CodingTest-Baekjoon/blob/master/Tag/Greedy/No15904_2.java "Bronze01 - 15904. UCPC는 무엇의 약자일까?(다른 방법)")
 + [Silver05 - 1439. 뒤집기](https://github.com/MIN-04/CodingTest-Baekjoon/blob/master/Tag/Greedy/No1439.java "Silver05 - 1439. 뒤집기")
 + [Silver05 - 4796. 캠핑](https://github.com/MIN-04/CodingTest-Baekjoon/blob/master/Tag/Greedy/No4796.java "Silver05 - 4796. 캠핑")
++ [Bronze01 - 17224. APC는 왜 서브태스크 대회가 되었을까?](https://github.com/MIN-04/CodingTest-Baekjoon/blob/master/Tag/Greedy/no17224.py "Bronze01 - 17224. APC는 왜 서브태스크 대회가 되었을까?")
   
 #### 수학 (Math)
 + [Bronze02 - 1075. 나누기](https://github.com/MIN-04/CodingTest-Baekjoon/blob/master/Tag/Math/No1075.java "Bronze02 - 1075. 나누기")  
