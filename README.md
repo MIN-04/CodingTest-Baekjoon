@@ -30,6 +30,14 @@
 
 + [Silver00 - 10930. SHA-256](https://github.com/MIN-04/CodingTest-Baekjoon/blob/master/Tag/Hash/no10930.py "Silver00 - 10930. SHA-256")
 
+### 알고리즘
+
+#### 시뮬레이션
+
++ [Bronze02 - 15969. 행복](https://github.com/MIN-04/CodingTest-Baekjoon/blob/master/Tag/Simulation/no15969.py "Bronze02 - 15969. 행복")
++ [Bronze02 - 10539. 수빈이와 수열](https://github.com/MIN-04/CodingTest-Baekjoon/blob/master/Tag/Simulation/no10539.py "Bronze02 - 10539. 수빈이와 수열")
++ [Bronze01 - 17269. 이름궁합 테스트](https://github.com/MIN-04/CodingTest-Baekjoon/blob/master/Tag/Simulation/no17269.py "Bronze01 - 17269. 이름궁합 테스트")
++ [Bronze02 - 17389. 보너스 점수](https://github.com/MIN-04/CodingTest-Baekjoon/blob/master/Tag/Simulation/no17389.py "Bronze02 - 17389. 보너스 점수")
 
 #### 동적계획법 (Dynamic Programming)
   
