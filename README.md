@@ -39,6 +39,7 @@
 + [Bronze02 - 10539. 수빈이와 수열](https://github.com/MIN-04/CodingTest-Baekjoon/blob/master/Tag/Simulation/no10539.py "Bronze02 - 10539. 수빈이와 수열")
 + [Bronze01 - 17269. 이름궁합 테스트](https://github.com/MIN-04/CodingTest-Baekjoon/blob/master/Tag/Simulation/no17269.py "Bronze01 - 17269. 이름궁합 테스트")
 + [Bronze02 - 17389. 보너스 점수](https://github.com/MIN-04/CodingTest-Baekjoon/blob/master/Tag/Simulation/no17389.py "Bronze02 - 17389. 보너스 점수")
++ [Bronze02 - 16675. 두 개의 손](https://github.com/MIN-04/CodingTest-Baekjoon/blob/master/Tag/Simulation/no16675.py "Bronze02 - 16675. 두 개의 손")
 
 #### 동적계획법 (Dynamic Programming)
   
@@ -58,5 +59,7 @@
   
 #### 수학 (Math)
 + [Bronze02 - 1075. 나누기](https://github.com/MIN-04/CodingTest-Baekjoon/blob/master/Tag/Math/No1075.java "Bronze02 - 1075. 나누기")  
++ [Bronze04 - 2480. 주사위 세개](https://github.com/MIN-04/CodingTest-Baekjoon/blob/master/Tag/Math/no2480.py "Bronze04 - 2480. 주사위 세개") 
++ [Bronze02 - 2484. 주사위 네개](https://github.com/MIN-04/CodingTest-Baekjoon/blob/master/Tag/Math/no2484.py "Bronze02 - 2484. 주사위 네개") 
   
 > 진행 중..
