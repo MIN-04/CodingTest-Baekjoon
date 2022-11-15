@@ -40,6 +40,7 @@
 + [Bronze01 - 17269. 이름궁합 테스트](https://github.com/MIN-04/CodingTest-Baekjoon/blob/master/Tag/Simulation/no17269.py "Bronze01 - 17269. 이름궁합 테스트")
 + [Bronze02 - 17389. 보너스 점수](https://github.com/MIN-04/CodingTest-Baekjoon/blob/master/Tag/Simulation/no17389.py "Bronze02 - 17389. 보너스 점수")
 + [Bronze02 - 16675. 두 개의 손](https://github.com/MIN-04/CodingTest-Baekjoon/blob/master/Tag/Simulation/no16675.py "Bronze02 - 16675. 두 개의 손")
++ [Bronze03 - 10818. 최소, 최대](https://github.com/MIN-04/CodingTest-Baekjoon/blob/master/Tag/Simulation/no10818.py "Bronze03 - 10818. 최소, 최대")
 
 #### 동적계획법 (Dynamic Programming)
   
