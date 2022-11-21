@@ -1,4 +1,4 @@
-# 브론즈3 - 2460. 주사위 세개 (https://www.acmicpc.net/problem/2460)
+# 브론즈3 - 2460. 지능형 기차 2 (https://www.acmicpc.net/problem/2460)
 
 result = 0
 sum = 0
