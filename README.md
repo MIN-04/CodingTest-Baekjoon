@@ -64,5 +64,6 @@
 + [Bronze02 - 2484. 주사위 네개](https://github.com/MIN-04/CodingTest-Baekjoon/blob/master/Tag/Math/no2484.py "Bronze02 - 2484. 주사위 네개") 
 + [Bronze03 - 2501. 약수 구하기](https://github.com/MIN-04/CodingTest-Baekjoon/blob/master/Tag/Math/no2501.py "Bronze03 - 2501. 약수 구하기") 
 + [Bronze03 - 3460. 이진수](https://github.com/MIN-04/CodingTest-Baekjoon/blob/master/Tag/Math/no3460.py "Bronze03 - 3460. 이진수") 
++ [Bronze03 - 2460. 지능형 기차 2](https://github.com/MIN-04/CodingTest-Baekjoon/blob/master/Tag/Math/no2460.py "Bronze03 - 2460. 지능형 기차 2") 
 
 > 진행 중..
