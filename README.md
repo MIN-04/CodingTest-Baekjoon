@@ -2,7 +2,15 @@
   
 + 코딩테스트를 준비하기 위해 Baekjoon 문제 풀이를 시작한다.
 + Java, Python 언어로 풀고, Github에 정리한다.  
-    
+
+## 단계별로 풀어보기 (Step)
+### 1. 입출력과 사칙연산
+
++ [Bronze 5 - 2557. Hello World](https://github.com/MIN-04/CodingTest-Baekjoon/blob/master/Step/IO/no2557.py "Bronze 5 - 2557. Hello World")
++ [Bronze 5 - 1000. A + B](https://github.com/MIN-04/CodingTest-Baekjoon/blob/master/Step/IO/no1000.py "Bronze 5 - 1000. A + B")
++ [Bronze 5 - 1001. A - B](https://github.com/MIN-04/CodingTest-Baekjoon/blob/master/Step/IO/no1001.py "Bronze 5 - 1001. A - B")
+
+
 ## 분류 (Tag)
 
 ### 자료구조
