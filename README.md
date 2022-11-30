@@ -10,6 +10,10 @@
 + [Bronze 5 - 1000. A + B](https://github.com/MIN-04/CodingTest-Baekjoon/blob/master/Step/IO/no1000.py "Bronze 5 - 1000. A + B")
 + [Bronze 5 - 1001. A - B](https://github.com/MIN-04/CodingTest-Baekjoon/blob/master/Step/IO/no1001.py "Bronze 5 - 1001. A - B")
 
+### 2. 조건문
++ [Bronze 3 - 2884. 알람시계](https://github.com/MIN-04/CodingTest-Baekjoon/blob/master/Step/IO/no2884.py "Bronze 3 - 2884. 알람시계")
++ [Bronze 3 - 2525. 오븐 시계](https://github.com/MIN-04/CodingTest-Baekjoon/blob/master/Step/IO/no2525.py "Bronze 3 - 2525. 오븐 시계")
+
 
 ## 분류 (Tag)
 
