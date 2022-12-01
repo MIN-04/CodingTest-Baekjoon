@@ -1,4 +1,4 @@
-# Bronze 1 - 4344. OX퀴즈 (https://www.acmicpc.net/problem/4344)
+# Bronze 1 - 4344. 평균은 넘겠지 (https://www.acmicpc.net/problem/4344)
 
 for _ in range(int(input())):
     scores = list(map(int, input().split(" ")))
