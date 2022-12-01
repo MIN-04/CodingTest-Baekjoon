@@ -4,15 +4,24 @@
 + Java, Python 언어로 풀고, Github에 정리한다.  
 
 ## 단계별로 풀어보기 (Step)
-### 1. 입출력과 사칙연산
+#### 1. 입출력과 사칙연산
 
 + [Bronze 5 - 2557. Hello World](https://github.com/MIN-04/CodingTest-Baekjoon/blob/master/Step/IO/no2557.py "Bronze 5 - 2557. Hello World")
 + [Bronze 5 - 1000. A + B](https://github.com/MIN-04/CodingTest-Baekjoon/blob/master/Step/IO/no1000.py "Bronze 5 - 1000. A + B")
 + [Bronze 5 - 1001. A - B](https://github.com/MIN-04/CodingTest-Baekjoon/blob/master/Step/IO/no1001.py "Bronze 5 - 1001. A - B")
 
-### 2. 조건문
-+ [Bronze 3 - 2884. 알람시계](https://github.com/MIN-04/CodingTest-Baekjoon/blob/master/Step/IO/no2884.py "Bronze 3 - 2884. 알람시계")
-+ [Bronze 3 - 2525. 오븐 시계](https://github.com/MIN-04/CodingTest-Baekjoon/blob/master/Step/IO/no2525.py "Bronze 3 - 2525. 오븐 시계")
+#### 2. 조건문
++ [Bronze 3 - 2884. 알람시계](https://github.com/MIN-04/CodingTest-Baekjoon/blob/master/Step/ConStatus/no2884.py "Bronze 3 - 2884. 알람시계")
++ [Bronze 3 - 2525. 오븐 시계](https://github.com/MIN-04/CodingTest-Baekjoon/blob/master/Step/ConStatus/no2525.py "Bronze 3 - 2525. 오븐 시계")
+
+#### 3. 반복문
++ [Bronze 1 - 1110. 더하기 사이클](https://github.com/MIN-04/CodingTest-Baekjoon/blob/master/Step/Loop/no1110.py "Bronze 1 - 1110. 더하기 사이클")
+
+#### 4. 1차원 배열
++ [Bronze 2 - 3052. 나머지](https://github.com/MIN-04/CodingTest-Baekjoon/blob/master/Step/1DimenArray/no3052.py "Bronze 2 - 3052. 나머지")
++ [Bronze 1 - 1546. 평균](https://github.com/MIN-04/CodingTest-Baekjoon/blob/master/Step/1DimenArray/no3052.py "Bronze 1 - 1546. 평균")
++ [Bronze 2 - 8958. OX퀴즈](https://github.com/MIN-04/CodingTest-Baekjoon/blob/master/Step/1DimenArray/no3052.py "Bronze 2 - 8958. OX퀴즈")
++ [Bronze 1 - 4344. 평균은 넘겠지](https://github.com/MIN-04/CodingTest-Baekjoon/blob/master/Step/1DimenArray/no4344.py "Bronze 1 - 4344. 평균은 넘겠지")
 
 
 ## 분류 (Tag)
