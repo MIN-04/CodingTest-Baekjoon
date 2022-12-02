@@ -23,6 +23,10 @@
 + [Bronze 2 - 8958. OX퀴즈](https://github.com/MIN-04/CodingTest-Baekjoon/blob/master/Step/1DimenArray/no3052.py "Bronze 2 - 8958. OX퀴즈")
 + [Bronze 1 - 4344. 평균은 넘겠지](https://github.com/MIN-04/CodingTest-Baekjoon/blob/master/Step/1DimenArray/no4344.py "Bronze 1 - 4344. 평균은 넘겠지")
 
+#### 6. 문자열
++ [Silver 5 - 2941. 크로아티아 알파벳](https://github.com/MIN-04/CodingTest-Baekjoon/blob/master/Step/String/no2941.py "Silver 5 - 2941. 크로아티아 알파벳")
+
+
 
 ## 분류 (Tag)
 
