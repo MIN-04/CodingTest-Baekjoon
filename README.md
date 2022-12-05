@@ -25,6 +25,7 @@
 
 #### 6. 문자열
 + [Silver 5 - 2941. 크로아티아 알파벳](https://github.com/MIN-04/CodingTest-Baekjoon/blob/master/Step/String/no2941.py "Silver 5 - 2941. 크로아티아 알파벳")
++ [Silver 5 - 1316. 그룹 단어 체커](https://github.com/MIN-04/CodingTest-Baekjoon/blob/master/Step/String/no1316.py "Silver 5 - 1316. 그룹 단어 체커")
 
 
 
