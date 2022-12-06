@@ -27,6 +27,10 @@
 + [Silver 5 - 2941. 크로아티아 알파벳](https://github.com/MIN-04/CodingTest-Baekjoon/blob/master/Step/String/no2941.py "Silver 5 - 2941. 크로아티아 알파벳")
 + [Silver 5 - 1316. 그룹 단어 체커](https://github.com/MIN-04/CodingTest-Baekjoon/blob/master/Step/String/no1316.py "Silver 5 - 1316. 그룹 단어 체커")
 
+#### 7, 8. 기본 수학
++ [Silver 4 - 2839. 설탕 배달](https://github.com/MIN-04/CodingTest-Baekjoon/blob/master/Step/BasicMath/no2839.py "Silver 4 - 2839. 설탕 배달")
++ [Silver 5 - 1978. 소수 찾기](https://github.com/MIN-04/CodingTest-Baekjoon/blob/master/Step/BasicMath/no2839.py "Silver 5 - 1978. 소수 찾기")
++ [Silver 5 - 2581. 소수](https://github.com/MIN-04/CodingTest-Baekjoon/blob/master/Step/BasicMath/no2839.py "Silver 5 - 2581. 소수")
 
 
 ## 분류 (Tag)
