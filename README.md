@@ -31,6 +31,7 @@
 + [Silver 4 - 2839. 설탕 배달](https://github.com/MIN-04/CodingTest-Baekjoon/blob/master/Step/BasicMath/no2839.py "Silver 4 - 2839. 설탕 배달")
 + [Silver 5 - 1978. 소수 찾기](https://github.com/MIN-04/CodingTest-Baekjoon/blob/master/Step/BasicMath/no2839.py "Silver 5 - 1978. 소수 찾기")
 + [Silver 5 - 2581. 소수](https://github.com/MIN-04/CodingTest-Baekjoon/blob/master/Step/BasicMath/no2839.py "Silver 5 - 2581. 소수")
++ [Silver 3 - 1929. 소수 구하기](https://github.com/MIN-04/CodingTest-Baekjoon/blob/master/Step/BasicMath/no1929.py "Silver 3 - 1929. 소수 구하기")
 
 
 ## 분류 (Tag)
