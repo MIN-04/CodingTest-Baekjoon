@@ -32,6 +32,13 @@
 + [Silver 5 - 1978. 소수 찾기](https://github.com/MIN-04/CodingTest-Baekjoon/blob/master/Step/BasicMath/no2839.py "Silver 5 - 1978. 소수 찾기")
 + [Silver 5 - 2581. 소수](https://github.com/MIN-04/CodingTest-Baekjoon/blob/master/Step/BasicMath/no2839.py "Silver 5 - 2581. 소수")
 + [Silver 3 - 1929. 소수 구하기](https://github.com/MIN-04/CodingTest-Baekjoon/blob/master/Step/BasicMath/no1929.py "Silver 3 - 1929. 소수 구하기")
++ [Silver 2 - 4948. 베르트랑 공준](https://github.com/MIN-04/CodingTest-Baekjoon/blob/master/Step/BasicMath/no4948.py "Silver 2 - 4948. 베르트랑 공준")
+
+#### 9. 2차원 배열
++ [Silver 5 - 2563. 색종이](https://github.com/MIN-04/CodingTest-Baekjoon/blob/master/Step/BasicMath/no2563.py "Silver 5 - 2563. 색종이")
+
+#### 10. 정렬
++ [Silver 3 - 2108. 통계학](https://github.com/MIN-04/CodingTest-Baekjoon/blob/master/Step/BasicMath/no2108.py "Silver 3 - 2108. 통계학")
 
 
 ## 분류 (Tag)
