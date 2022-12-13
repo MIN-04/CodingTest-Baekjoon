@@ -35,10 +35,16 @@
 + [Silver 2 - 4948. 베르트랑 공준](https://github.com/MIN-04/CodingTest-Baekjoon/blob/master/Step/BasicMath/no4948.py "Silver 2 - 4948. 베르트랑 공준")
 
 #### 9. 2차원 배열
-+ [Silver 5 - 2563. 색종이](https://github.com/MIN-04/CodingTest-Baekjoon/blob/master/Step/BasicMath/no2563.py "Silver 5 - 2563. 색종이")
++ [Silver 5 - 2563. 색종이](https://github.com/MIN-04/CodingTest-Baekjoon/blob/master/Step/2DimenArray/no2563.py "Silver 5 - 2563. 색종이")
 
 #### 10. 정렬
-+ [Silver 3 - 2108. 통계학](https://github.com/MIN-04/CodingTest-Baekjoon/blob/master/Step/BasicMath/no2108.py "Silver 3 - 2108. 통계학")
++ [Silver 3 - 2108. 통계학](https://github.com/MIN-04/CodingTest-Baekjoon/blob/master/Step/Sort/no2108.py "Silver 3 - 2108. 통계학")
+
+#### 11. 재귀
++ [Gold 5 - 2447. 별 찍기 - 10](https://github.com/MIN-04/CodingTest-Baekjoon/blob/master/Step/Recursion/no2447.py "Gold 5 - 2447. 별 찍기 - 10")
+
+#### 12. 브루트 포스
++ [Silver 5 - 7568. 덩치](https://github.com/MIN-04/CodingTest-Baekjoon/blob/master/Step/BruteForce/no7568.py "Silver 5 - 7568. 덩치")
 
 
 ## 분류 (Tag)
