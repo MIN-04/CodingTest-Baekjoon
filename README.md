@@ -76,6 +76,10 @@
 + [Silver03 - 16165. 걸그룹 마스터 준석이](https://github.com/MIN-04/CodingTest-Baekjoon/blob/master/Tag/Hash/no16165.py "Silver03 - 16165. 걸그룹 마스터 준석이")
 
 ### 알고리즘
+#### 완전탐색
+
++ [Bronze 2 - 2231. 분해합](https://github.com/MIN-04/CodingTest-Baekjoon/blob/master/Tag/BruteForceSearch/no2231.py "Bronze 2 - 2231. 분해합")
+
 
 #### 시뮬레이션
 
